@@ -1,0 +1,95 @@
+body{
+    text-align: center;
+    font-family: verdana;
+}
+
+.introducao{
+    background-color: #b0ddfc;
+    padding: 60px;
+}
+.logo{
+    width: 20%;
+}
+.link-top{
+    font-size: 18px;
+    margin: 10px;
+    color: black;
+    font-weight: bold;
+}
+.banner{
+    width: 90%;
+    margin: 60px auto;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 28px;
+    font-weight: normal;
+    color: #1d80c1;
+
+}
+h3{
+    font-size: 20px;
+}
+.assinatura{
+    width: 30%;
+}
+p{
+    text-align: justify;
+    width: 60%;
+    margin: auto;
+    line-height: 27px;
+    font-size: 18px;
+}
+.azul{
+    color: #1d80c1;
+}
+.servicos{
+    background-color: #1d80c1;
+    padding: 10px;
+}
+.branco{
+    color: white;
+}
+.para-serv{
+    text-align: center;
+    width: 30%;
+}
+.amarelo{
+    color: #edfb89;
+}
+.lista{
+    margin: auto;
+    width: 100px;
+    color: white;
+}
+.lista li{
+    margin: 10px;
+}
+.corretores-img{
+    width: 30%;
+}
+.contato{
+    background-color: #1d80c1;
+    padding-top: 20PX;
+    padding-bottom: 20px;
+}
+iframe{
+    width: 40%;
+    height: 300px;
+    margin: 10px;
+}
+.para-cont{
+    background-color: rgb(51, 51, 51);
+    padding: 10px;
+}
+.link-baixo{
+    background-color: white;
+    color: #1d80c1;
+    border-radius: 3px;
+    padding: 2px;
+}
+.ul-cont li{
+    padding: 10px;
+}
